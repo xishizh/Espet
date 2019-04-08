@@ -1,6 +1,8 @@
 # Espet
 
-Privacy Policy<br/>
+Privacy Policy
+
+
 This app respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, this app will use and disclose your personal information in accordance with this Privacy Policy. This application will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior permission. This app will update this privacy policy from time to time. By agreeing to the Service Use Agreement for this application, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of this Application Service Agreement.
 First, What information does this app collect from you?
 1. This app does not collect any personal data information
