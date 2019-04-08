@@ -14,6 +14,8 @@ Third, notice and revision
 Fourth, how to contact this application
 If you have any complaints or reports about the security of your network information, or if you have any questions, comments or suggestions about this Privacy Policy, your information, and any questions regarding this statement or the privacy practices of this application, please contact this application. Contact the coordinator.
 
+
+
 ![image](https://github.com/xishizh/Espet/blob/master/PreImage/newEvent.png)
 ![image](https://github.com/xishizh/Espet/blob/master/PreImage/eventSession.png)
 ![image](https://github.com/xishizh/Espet/blob/master/PreImage/sessionGame.png)
